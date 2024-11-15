@@ -1,0 +1,15 @@
+<html>
+ <head>
+    <title>Κεφ.2 ασκ.5</title>
+    <style>
+    /* ορισμός μεγέθους γραμμάτων παραγράφου και στοίχισης κειμένου */
+        p {
+            font-size: 36px;
+            text-align: left;
+        }
+    </style>
+ </head>
+ <body>    
+    <p>Κείμενο</p>
+ </body>
+</html>
