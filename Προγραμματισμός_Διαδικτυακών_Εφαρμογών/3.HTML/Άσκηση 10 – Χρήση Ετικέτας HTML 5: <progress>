@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="UTF-8">
+      <title> Κεφ.3 ασκ.10</title>
+    </head>
+    <body>    
+    <h1>Παράδειγμα Χρήσης Ετικέτας Progress</h1>
+    <!-- Χρησιμοποιούμε την ετικέτα progress για να δημιουργήσουμε μια γραμμή προόδου -->
+    <label for="diadikasia">Πρόοδος μεταφόρτωσης αρχείου:</label>
+    <progress id="diadikasia" value="32" max="100"></progress>
+    <p>32% ολοκληρωμένο</p>
+    </body>
+</html>
