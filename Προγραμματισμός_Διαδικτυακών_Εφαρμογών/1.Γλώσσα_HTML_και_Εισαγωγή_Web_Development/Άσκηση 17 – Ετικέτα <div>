@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Κεφ.1 ασκ.17</title>
+</head>
+<body>
+    <!-- Ομάδα 1: Πληροφορίες εταιρείας -->
+    <div>
+        <table>
+            <tr>
+                <th>Περιγραφή</th>
+                <th>Διεύθυνση</th>
+                <th>Τηλέφωνο Επικοινωνίας</th>
+            </tr>
+            <tr>
+                <td>Universal Education A.E. Aθήνα</td>
+                <td>Μαυροκορδάτου 1 - 3, Τ.Κ. 10678</td>
+                <td>210 9769510</td>
+            </tr>
+        </table>
+
+        <p>Το logo της Universal Education A.E. είναι το ακόλουθο:</p>
+        <img src="https://tinyurl.com/UniversalEducationLogo" alt="Λογότυπο Universal Education A.E.">
+    </div>
+
+    <!-- Ομάδα 2: Λίστα με στοιχεία -->
+    <div>
+        <ul>
+            <li>Στοιχείο 1</li>
+        </ul>
+    </div>
+
+    <!-- Ομάδα 3: Υπερσύνδεσμος -->
+    <div>
+        <p>Πατήστε <a href="https://www.google.gr/?hl=el">εδώ</a> για να ανοίξει ο υπερσύνδεσμος του href, δηλαδή το Google.</p>
+    </div>
+
+    <!-- Ομάδα 4: Κεφαλίδες -->
+    <div>
+        <h1>Κεφαλίδα 1 - Τίτλος άρθρου</h1>
+        <h2>Κεφαλίδα 2</h2>
+        <h3>Κεφαλίδα 3</h3>
+        <h4>Κεφαλίδα 4</h4>
+        <h5>Κεφαλίδα 5</h5>
+        <h6>Κεφαλίδα 6</h6>
+    </div>
+</body>
+</html>
