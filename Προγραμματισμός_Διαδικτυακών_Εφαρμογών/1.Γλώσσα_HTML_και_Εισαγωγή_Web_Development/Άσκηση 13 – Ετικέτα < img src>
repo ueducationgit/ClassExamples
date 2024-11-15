@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <title>Κεφ.1 ασκ.13</title>
+  </head>
+  <body>
+    <p>Το logo της Universal Education A.E. είναι το ακόλουθο:</p>
+    <img src="https://tinyurl.com/UniversalEducationLogo" >
+    <p>Αντίστοιχα, μπορεί να χρησιμοποιηθεί και ετικέτα τερματισμού με την ίδια τελική εμφάνιση/συμπεριφορά </p>
+    <img src="https://tinyurl.com/UniversalEducationLogo" />
+    <p> ή </p>
+    <img src="https://tinyurl.com/UniversalEducationLogo"> </img>
+    <p>Επιπλέον, για τον ορισμό του πλάτους και ύψους της Εικόνας, χρησιμοποιούνται οι εντολές εισόδου (ορίσματα) width="αριθμός" height="αριθμός" </p>
+    <img src="https://tinyurl.com/UniversalEducationLogo" width="100" height="100" >
+    <p> ή </p>
+    <img src="https://tinyurl.com/UniversalEducationLogo" width="100" height="100" />
+    <p>ή αντίστοιχα η ίδια ετικέτα εισαγωγής Εικόνας με ετικέτα τερματισμού:</p>
+    <img src="https://tinyurl.com/UniversalEducationLogo" width="120" height="120" > </img>
+    <p>Τέλος, για την εισαγωγή αρχείου Εικόνας από το σταθερό υπολογιστή, αν για παράδειγμα έχει αποθηκευτεί ένα αρχείο Εικόνας στον C:/, εντός των "" στο src, προστίθεται το πρόθεμα file:/// και κατόπιν η τοπική διεύθυνση στο δίσκο όπου είναι αποθηκευμένη η Εικόνα: </p>
+    <img src="file:///C:/alex.jpg" >
+    <p>Αντίστοιχα, και για τα τοπικά αρχεία Εικόνας μπορεί να δηλωθεί το πλάτος και ύψος της Εικόνας και να προστεθεί χαρακτήρας τερματισμού </p>
+    <img src="file:///C:/alex.jpg" width="150" height="150" />
+  </body>
+</html>
