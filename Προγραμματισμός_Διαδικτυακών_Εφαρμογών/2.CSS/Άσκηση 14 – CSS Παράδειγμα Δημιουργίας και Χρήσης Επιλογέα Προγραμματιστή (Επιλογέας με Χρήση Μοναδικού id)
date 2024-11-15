@@ -1,0 +1,25 @@
+<html>
+    <head> 
+            <title> Κεφ.2 ασκ.14</title> 
+  <style> 
+     #tiposStyle1{
+        font-size: 40px ;
+        color:Tomato ;
+     }     
+     #tiposStyle12{
+        color:Blue ;
+        text-align: center;
+     }
+   </style>
+    </head> 
+    <body> 
+        <div id="tiposStyle2"> 
+            <h1>Παραδειγμα Header1 </h1> 
+            <h2>Παραδειγμα Header1.1 </h2> 
+            <h3>Παραδειγμα Header1.1.a </h3> 
+        </div>
+        <p id="tiposStyle1"> Παραγραφος <b>κειμενο α</b>  </p>
+        <p id="tiposStyle12"> Παραγραφος <b>κειμενο β</b>     </p>
+    </body> 
+</html>
+
