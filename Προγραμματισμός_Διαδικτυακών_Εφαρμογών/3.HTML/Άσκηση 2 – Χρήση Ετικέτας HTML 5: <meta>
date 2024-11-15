@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="UTF-8">
+      <meta content-type="text/html">
+      <meta name="description" content="Περιγραφή της ιστοσελίδας μας">
+      <meta name="keywords" content="Λέξεις κλειδιά, σχετικά με την ιστοσελίδα μας">
+      <meta name="author" content="Αλέξανδρος Γαζής">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<!--έλεγχος του viewport (περιοχή προβολής) σε μια ιστοσελίδα.  -->
+      <title> Κεφ.3 ασκ.2</title>
+    </head> 
+    <body>      
+      <p> Παράδειγμα χρήσης HTML 5</p>  
+    </body>
+</html>
+
