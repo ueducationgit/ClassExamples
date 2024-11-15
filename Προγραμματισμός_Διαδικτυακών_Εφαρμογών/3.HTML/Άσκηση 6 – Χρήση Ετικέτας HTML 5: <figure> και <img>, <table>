@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="UTF-8">
+      <title> Κεφ.3 ασκ.6</title>
+    </head>
+     <body>      
+          <figure>
+            <img src="https://tinyurl.com/UniversalEducationLogo" alt="Universal Education Logo">
+            <figcaption>
+                    Λεζάντα εικόνας από υπερ-σύνδεσμο
+            </figcaption>
+          </figure>
+          <figure>
+            <img src="UniversalEducationLogo.png" alt="Universal Education Logo">
+            <figcaption>Λεζάντα εικόνας (τοπικό αρχείο)</figcaption>
+          </figure>
+            <figure>
+    <caption>Πίνακας Δεδομένων</caption>
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="UTF-8">
+      <title> Κεφ.3 ασκ.6</title>
+    </head>
+     <body>      
+          <figure>
+            <img src="https://tinyurl.com/UniversalEducationLogo" alt="Universal Education Logo">
+            <figcaption>
+                    Λεζάντα εικόνας από υπερ-σύνδεσμο
+            </figcaption>
+          </figure>
+          <figure>
+            <img src="UniversalEducationLogo.png" alt="Universal Education Logo">
+            <figcaption>Λεζάντα εικόνας (τοπικό αρχείο)</figcaption>
+          </figure>
+            <figure>
+    <caption>Πίνακας Δεδομένων</caption>
+    <table>
+      <thead>
+        <tr>
+          <th>Όνομα</th>
+          <th>Επώνυμο</th>
+          <th>Ηλικία</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Αλέξανδρος</td>
+          <td>Γαζής</td>
+          <td>31</td>
+        </tr>
+        <tr>
+          <td>Γεώργιος</td>
+          <td>Γαζής</td>
+          <td>32</td>
+        </tr>
+        <tr>
+          <td>Βασίλης</td>
+          <td>Παπακωσταντίνου</td>
+          <td>73</td>
+        </tr>
+      </tbody>
+    </table>
+    <figcaption>Λεζάντα για τον πίνακα</figcaption>
+  </figure>
+  </body>
+</html>
