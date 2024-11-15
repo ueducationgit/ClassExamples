@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="UTF-8">
+      <title> Κεφ.3 ασκ.5</title>
+    </head>
+    <body>      
+         <h1>Συχνές Ερωτήσεις</h1>
+        <details>
+            <summary>Τι είναι η HTML5;</summary>
+            <p>H HTML5 είναι η τελευταία έκδοση της γλώσσας HTML!</p>
+        </details>
+
+        <details>
+            <summary>Ποια τα στοιχεία επικοινωνίας της Universal Education;</summary>
+                <p>E-mail: info@ueducation.gr</p>
+                <p>Τηλέφωνα: +30 210 9769510, +30 2310 283272</p>
+                <p>Έδρα: Μαυροκορδάτου 1-3, Αθήνα, 10678</p>
+                <p>ΓΕΜΗ: 124439601000
+    </body>
+</html>
