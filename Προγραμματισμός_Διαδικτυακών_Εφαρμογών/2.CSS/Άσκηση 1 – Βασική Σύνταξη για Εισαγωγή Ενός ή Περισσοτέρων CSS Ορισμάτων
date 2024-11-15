@@ -1,0 +1,20 @@
+<html>
+    <head>
+      <title> Κεφ.2 ασκ.1</title>
+    </head>
+    <body>
+       <!-- σχόλιο1 σε HTML! Παρακάτω ακολουθούν παραδείγματα με τον 1ο τρόπο ορισμού CSS-->
+       <p style = "font-size: 31px">  Κείμενο Α1</p>
+       <p style = "text-align: center"> 
+                    Κείμενο Β1   </p>
+       <p style="background-color: Blue"> Κείμενο Γ1</p>
+       <!-- σχόλιο2 σε HTML! Παρακάτω ακολουθούν πxς με τον 2ο τρόπο ορισμού CSS για 1 ή πολλαπλά ορίσματα(εισόδους)-->
+       <p style = "font-size: 31px;">  Κείμενο Α2</p>
+       <p style = "text-align: center;"> 
+                    Κείμενο Β2       
+       </p>
+       <p style="background-color:  Blue ;"> Κείμενο Γ2</p>
+       <p style="font-size: 40px; text-align: center; background-color: Grey;"> 
+                    Κείμενο Δ (συνδυασμός)</p>
+    </body>
+</html>
