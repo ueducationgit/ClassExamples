@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <title>Κεφ.2 ασκ.10</title>
+    <style>
+      p {
+        background-color: Red;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Κείμενο παραγράφου 1</p>
+    <p>Κείμενο παραγράφου 2</p>
+    <pre style="background-image: url('https://tinyurl.com/UniversalEducationLogo'); background-repeat: yes-repeat;">
+Κεί
+μεν
+ο πα
+ραγρ
+άφ
+ου 
+3
+
+    </pre>  
+ <pre style="background-image: url('https://tinyurl.com/UniversalEducationLogo'); background-repeat: no-repeat;">
+      Κεί
+      μεν
+      ο πα
+ραγρ
+      άφ
+      ου 4
+    </pre>
+  </body>
+</html>
