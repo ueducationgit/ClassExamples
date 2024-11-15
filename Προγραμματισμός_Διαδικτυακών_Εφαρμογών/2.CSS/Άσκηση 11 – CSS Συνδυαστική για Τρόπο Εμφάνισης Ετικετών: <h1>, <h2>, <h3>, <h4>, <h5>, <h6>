@@ -1,0 +1,99 @@
+<html>
+  <head>
+    <title>Κεφ.2 ασκ.11</title>
+    <style>
+      h1 {
+        font-family: Arial;
+        font-size: 24px;
+        color: blue;
+        text-align: center;
+        line-height: 1.5;
+        letter-spacing: 1px;
+        word-spacing: 2px;
+        margin: 20px;
+        padding: 10px;
+        border: 2px solid
+      }
+      h2 {
+        font-family: Times New Roman;
+        font-size: 20px;
+        color: Green;
+        text-align: left;
+        line-height: 1.6;
+        letter-spacing: 0.5px;
+        word-spacing: 1px;
+        margin: 15px;
+        padding: 8px;
+        /* ορισμός πάχους γραμμής πλαισίου, τρόπου εμφάνισης γραμμής (διακεκομμένες) και χρώματος γραμμής πλαισίου */
+        border: 1px dashed Pink;
+        background-color: Yellow;
+        /* ΠΡΟΣΟΧΗ για να λειτουργήσει σωστά απαιτείται το αρχείο εικόνας να είναι στον ίδιο φάκελο με την .html σελίδα! ΠΡΟΣΟΧΗ σε ορθογραφικά κατά την αντιγραφή του ονόματος του αρχείου εικόνας!*/
+        background-image: url('universal-education-logo.png'); 
+      }      
+      h3 {
+        font-family: Tahoma;
+        font-size: 20px;
+        color: Red;
+        text-align: left;
+        line-height: 1.6;
+        letter-spacing: 0.5px;
+        word-spacing: 1px;
+        margin: 15px;
+        padding: 8px;
+        border: 7px dotted  Pink;
+        background-color: Yellow;
+        background-image: url('universal-education-logo.png'); 
+      }
+      h4 {
+        font-family: Tahoma;
+        font-size: 20px;
+        color: Red;
+        text-align: left;
+        line-height: 1.6;
+        letter-spacing: 0.5px;
+        word-spacing: 1px;
+        margin: 15px;
+        padding: 8px;
+        border: 7px ;
+        background-color: Yellow;
+        background-image: url('universal-education-logo.png'); 
+      }
+      h5 {
+        font-family: Courier;
+        font-size: 28px;
+        color: Red;
+        text-align: center;
+        line-height: 1.9;
+        letter-spacing: 0.8px;
+        word-spacing: 4px;
+        margin: 22px;
+        padding: 8px;
+        border: 12px dotted Black;
+        background-color: Yellow;
+        background-image: url('universal-education-logo.png'); 
+      }
+      h6 {
+        font-family: Helvetica;
+        font-size: 12px;
+        color: Grey;
+        text-align: center;
+        line-height: 6;
+        letter-spacing: 2.8px;
+        word-spacing: 7px;
+        margin: 29px;
+        padding: 12px;
+        border: 15px dotted Red;
+        background-color: Green;
+        background-image: url('universal-education-logo.png'); 
+      }   
+    </style>
+  </head>
+  <body>
+    <h1>Κεφαλίδα 1  Τίτλος άρθρου </h1>
+    <h2>Κεφαλίδα 2</h2>
+    <h3>Κεφαλίδα 3</h3>
+    <h4>Κεφαλίδα 4</h4>
+    <h5>Κεφαλίδα 5</h5>
+    <h6>Κεφαλίδα 6</h6>
+  </body>
+</html>
