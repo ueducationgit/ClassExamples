@@ -1,0 +1,11 @@
+<html>
+    <head>
+      <title> Κεφ.1 ασκ.12</title>
+    </head>
+    <body>
+       <p>Πατήστε <a href="https://www.google.gr/?hl=el">εδώ </a> για να ανοίξει ο υπερσύνδεσμος του href, δηλαδή το Google.
+       </p>
+       <a href="https://www.google.gr/?hl=el"> Αντίστοιχα, πατήστε σε οποιοδήποτε σημείο της παρούσας πρότασης
+        για να ανοίξει ο υπερσύνδεσμος του href και να μεταβείτε στο Google!</a>
+    </body>
+</html>
