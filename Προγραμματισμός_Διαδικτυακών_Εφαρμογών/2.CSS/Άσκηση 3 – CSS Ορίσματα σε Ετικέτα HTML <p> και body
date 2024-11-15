@@ -1,0 +1,22 @@
+<html>
+ <head>
+    <title>Κεφ.2 ασκ.3</title>
+    <style>
+        p {
+            font-size: 36px;
+            text-align: left;
+        }
+        h1 {
+            font-size: 22px;
+            text-align: center;
+        }
+        body {
+            background-color: Yellow;
+        }
+    </style>
+ </head>
+ <body>
+    <p>Κείμενο Δ1 (συνδυασμός)</p>
+    <p>Κείμενο Δ2 (συνδυασμός)</p>
+ </body>
+</html>
