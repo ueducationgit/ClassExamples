@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <title>Κεφ.2 ασκ.12</title>
+    <style>
+      a {
+        color: blue;
+        font-family: Tahoma; 
+        font-size: 16px;
+        font-weight: bold;
+        padding: 5px 10px;
+        margin: 10px;
+        background-color: Yellow;
+        border: 5px solid Pink; /*αλλιώς solid, dashed, dotted */
+        border-radius: 5px;
+        cursor: pointer;/*αλλαγή του εικονιδίου από ποντίκι σε χέρι*/
+      }
+    /*όταν τοποθετείται ο κέρσορας πάνω στον σύνδεσμο να αλλάξει το χρώμα του! */
+      a:hover {
+        color: red;
+        background-color: Green;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Κείμενο</p>
+    <a href="https://tinyurl.com/UniversalEducationLogo">Για να δείτε το λογότυπο της Universal Education, πατήστε εδώ:</a>
+  </body>
+</html>
