@@ -1,0 +1,33 @@
+//ΚΩΔΙΚΑΣ HTML ΑΡΧΕΙΟΥ
+
+<html>
+ <head>
+    <title>Κεφ.2 ασκ.4</title>
+    <link rel="stylesheet" href="Kef2_CSS_ask4.css">
+ </head>
+ <body>
+    <h1> Τίτλος Κειμένου</h1>
+    <h2> Κεφαλίδα!</h2>
+    <p>Κείμενο Δ1 (συνδυασμός)</p>
+    <p>Κείμενο Δ2 (συνδυασμός)</p>
+ </body>
+</html>
+
+//ΚΩΔΙΚΑΣ CSS ΑΡΧΕΙΟΥ
+
+body {
+  background-color: Red;
+}
+h1 {
+  color: blue;
+  font-size: 22px;
+  text-align: center;
+}
+p {
+  font-size: 36px;
+  text-align: left;
+}
+h2 {
+  text-align: right;
+}
+
