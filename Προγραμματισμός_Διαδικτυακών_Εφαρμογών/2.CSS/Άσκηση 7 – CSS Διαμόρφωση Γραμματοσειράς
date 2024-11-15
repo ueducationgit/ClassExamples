@@ -1,0 +1,19 @@
+<html>
+ <head>
+    <title>Κεφ.2 ασκ.7</title>
+     <style>
+    p {
+      font-family: Arial;
+      font-size: 18px;
+      color: Red;
+    }
+    </style>
+ </head>
+ <body>
+  <p>Κείμενο παραγράφου 1</p>
+  <p>Κείμενο παραγράφου 2</p>
+  <pre style="font-family: Tahoma;">Κείμενο παραγράφου 3</pre>
+  <pre style="font-size: 12px;">   Κεί με ν ο πα ρ αγρά φ ου 4</pre>
+  <pre style="font-family: Times New Roman;font-size: 24px;">Κείμενο παραγράφου 5</pre>
+ </body>
+</html>
