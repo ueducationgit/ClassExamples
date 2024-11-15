@@ -1,4 +1,4 @@
-//ΚΩΔΙΚΑΣ HTML ΑΡΧΕΙΟΥ
+<!-- ΚΩΔΙΚΑΣ HTML ΑΡΧΕΙΟΥ -->
 
 <html>
  <head>
@@ -13,7 +13,7 @@
  </body>
 </html>
 
-//ΚΩΔΙΚΑΣ CSS ΑΡΧΕΙΟΥ
+<!-- ΚΩΔΙΚΑΣ CSS ΑΡΧΕΙΟΥ -->
 
 body {
   background-color: Red;
