@@ -1,0 +1,21 @@
+<html>
+ <head>
+    <title>Κεφ.2 ασκ.8</title>
+     <style>
+        p {
+        text-align: center;
+        line-height: 24px;
+        letter-spacing: 2px;
+        word-spacing: 4px;
+        }
+    </style>
+ </head>
+ <body>
+  <p>Κείμενο παραγράφου 1</p>
+  <p>Κείμενο παραγράφου 2</p>
+  <pre style="text-align: center;">Κείμενο παραγράφου 3</pre>
+  <pre style="line-height: 24px;">   Κεί με ν ο πα ρ αγρά φ ου 4</pre>
+  <pre style="letter-spacing: 2px;">Κείμενο παραγράφου 5</pre>
+  <pre style="text-align: center; line-height: 34px; letter-spacing: 7px; word-spacing: 9px;">Κείμενο παραγράφου 6 (συνδυαστικό)</pre>
+ </body>
+</html>
